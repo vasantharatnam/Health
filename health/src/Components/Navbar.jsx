@@ -20,7 +20,7 @@ function Navbar() {
   </a>
   <a href="#" className="flex items-center text-gray-600 hover:text-gray-900 font-medium">
     <img src="group.png" alt="Patients Icon" className="w-5 h-5 mr-2" />
-    Patients
+    Patients list
   </a>
   <a href="#" className="flex items-center text-gray-600 hover:text-gray-900 font-medium">
     <img src="calendar_today.png" alt="Schedule Icon" className="w-5 h-5 mr-2" />
